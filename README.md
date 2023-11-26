@@ -46,11 +46,11 @@ Ce projet utilise la bibliothèque p5.js pour simuler le comportement de véhicu
 
 ### La distance de séparation 
 Si on tire le curseur la distance de séparation peut diminuer ou augmenter c'est pour cela si elle est à zéro on constate qu'il n'y a pas de séparation.
-[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/90235152-7ad3-448d-9e12-8c7498efcc45)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/90235152-7ad3-448d-9e12-8c7498efcc45)
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/5#issue-2011085207)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/5#issue-2011085207)
 
 
-### La séparation 
-[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)
+### Le cercle qui avance le Leader 
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/b4b09ad7-43a5-439a-b64e-b4e1837b6b4e)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/b4b09ad7-43a5-439a-b64e-b4e1837b6b4e)
 
 
 
