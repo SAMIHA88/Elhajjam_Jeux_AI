@@ -50,5 +50,12 @@ Si on tire le curseur la distance de séparation peut diminuer ou augmenter c'es
 ### Afficher la vitesse
 [![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/6#issue-2011087429)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/6#issue-2011087429)
 
+### Evasion
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/6#issue-2011087429)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/6#issue-2011087429)
+
+### Ajout d'un vehicule en cliquant sur S
+[![Vidéo de démonstration](https://drive.google.com/file/d/1inSWejZKpj8POhUFAuCgqV1LpaAp_yiw/view?usp=sharing)](https://drive.google.com/file/d/1inSWejZKpj8POhUFAuCgqV1LpaAp_yiw/view?usp=sharing)
+
+
 
 
