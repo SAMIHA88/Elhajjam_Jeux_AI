@@ -31,7 +31,26 @@ Ce projet utilise la bibliothèque p5.js pour simuler le comportement de véhicu
 
 ### Mode débogage , Suivi du curseur et Ajout des obstacles
 
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/d05c003a-4ff7-45a2-9cf2-7e46f630a3ea)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/d05c003a-4ff7-45a2-9cf2-7e46f630a3ea)
 
 
-[![Vidéo de Démonstration][(https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)]([https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/bbc788c6-bdee-4be5-98b4-195dc031ba3f](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)
+### Mode débogage , Suivi du curseur et Ajout des obstacles
+
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/d05c003a-4ff7-45a2-9cf2-7e46f630a3ea)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/d05c003a-4ff7-45a2-9cf2-7e46f630a3ea)
+
+### Tous suit le leader
+
+### La séparation 
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)
+
+
+### La distance de séparation 
+Si on tire le curseur la distance de séparation peut diminuer ou augmenter c'est pour cela si elle est à zéro on constate qu'il n'y a pas de séparation.
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/90235152-7ad3-448d-9e12-8c7498efcc45)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/90235152-7ad3-448d-9e12-8c7498efcc45)
+
+
+### La séparation 
+[![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/assets/81178741/ed3e33c0-0949-4d3d-9a18-6ae00382e4bc)
+
+
 
