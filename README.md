@@ -31,3 +31,7 @@ Ce projet utilise la bibliothèque p5.js pour simuler le comportement de véhicu
 
 ### Mode débogage , Suivi du curseur et Ajout des obstacles
 
+
+
+[![Vidéo de Démonstration][(https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)]([https://github.com/SAMIHA88/RMI_Gestion_Machines/assets/81178741/bbc788c6-bdee-4be5-98b4-195dc031ba3f](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/1#issue-2011065463)
+
