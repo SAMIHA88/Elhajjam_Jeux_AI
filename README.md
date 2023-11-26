@@ -46,6 +46,7 @@ Ce projet utilise la bibliothèque p5.js pour simuler le comportement de véhicu
 
 ### La distance de séparation 
 Si on tire le curseur la distance de séparation peut diminuer ou augmenter c'est pour cela si elle est à zéro on constate qu'il n'y a pas de séparation.
+
 [![Vidéo de démonstration](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/5#issue-2011085207)](https://github.com/SAMIHA88/Elhajjam_Jeux_AI/issues/5#issue-2011085207)
 
 
